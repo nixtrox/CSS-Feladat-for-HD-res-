@@ -1,0 +1,79 @@
+body {
+    background-image: url(img/hatter.jpg);
+    z-index: 1;
+    margin-left: 23%;
+    margin-right: 23%;
+
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+    text-align: center;
+    background-image: url(img/fejlec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #484848;
+}
+
+#HeaderText{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    z-index: 5;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+#main1{
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-position: right 0px top 0px;
+    background-color: #FFFFFF;
+    color: #484848;
+
+    
+    
+}
+
+
+#Elerhetoseg{
+    margin-top: -220px;
+    margin-left: 15px;
+    margin-right: 70px;
+
+}
+
+.leftside{
+    text-align: center;
+
+}
+
+
+#leftSideBg{
+    background-image: url(img/menukep.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: #E8E8E8;
+    color: #800000;
+    background-position: left 0px bottom 0px;
+
+}
+
+#parad{
+    margin-bottom: -20px;
+}
+
+
+#space{
+    margin-bottom: 40px;
+}
+
+.text{
+    margin-left: 10px;
+}
+
+
